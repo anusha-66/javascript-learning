@@ -1,0 +1,18 @@
+var output = 0;
+
+//What will be the value of variable output in the following cases?
+
+output = 7 - 3 * 3;
+document.write(output);
+output = 11 - 3 + 5;
+document.write(output);
+output = 25 % 9 * 2;
+document.write(output);
+output = 3 + 7 * 4;
+document.write(output);
+output = 25 / 5 + 3;
+document.write(output);
+
+//Solution:
+
+//Download the resource file associated with this exercise to see the output.
